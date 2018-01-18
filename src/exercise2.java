@@ -22,6 +22,8 @@ public class exercise2 {
         
         System.out.println("Masukkan no2 :");
         no2=input.nextDouble();
+        System.out.println("Masukkan no2 :");
+        no2=input.nextDouble();
         
         jawapan=no1+no2;
         System.out.println("Hasil tambah : " +jawapan);
